@@ -1,2 +1,2 @@
 # Food-Ordering-Website
-HTML, CSS &amp; JS
+This is a basic Food Ordering Website - Flavor Fusion
